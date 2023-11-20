@@ -5,4 +5,5 @@
 ##### java awt기반의 ui로 구성된 커뮤니티 관리기
 
 ##### 스크린샷
-![image](https://github.com/akdlcnd0994/communityManagement/assets/28687142/b20f5a67-1121-409c-991c-adf4035baba9)
+![image](https://github.com/akdlcnd0994/communityManagement/assets/28687142/f0ef7d95-e532-45ac-ab3f-eb7c84adad22)
+
